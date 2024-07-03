@@ -30,7 +30,7 @@
         <johnzon.version>1.1.3</johnzon.version>
         <jsonb-api.version>1.0</jsonb-api.version>
         <geronimo-json_1.1_spec.version>1.0</geronimo-json_1.1_spec.version>
-        <asciidoctor-plugin.version>1.5.6</asciidoctor-plugin.version>
+        <asciidoctor-plugin.version>3.0.0</asciidoctor-plugin.version>
         <snippetsDirectory>${project.build.directory}/generated-snippets</snippetsDirectory>
     </properties>
 
